@@ -1,0 +1,16 @@
+C:\Users\monte\Desktop\ExerciciosPOO\ExercicioLoja\bin\Debug\net5.0\ExercicioLoja.exe
+C:\Users\monte\Desktop\ExerciciosPOO\ExercicioLoja\bin\Debug\net5.0\ExercicioLoja.deps.json
+C:\Users\monte\Desktop\ExerciciosPOO\ExercicioLoja\bin\Debug\net5.0\ExercicioLoja.runtimeconfig.json
+C:\Users\monte\Desktop\ExerciciosPOO\ExercicioLoja\bin\Debug\net5.0\ExercicioLoja.runtimeconfig.dev.json
+C:\Users\monte\Desktop\ExerciciosPOO\ExercicioLoja\bin\Debug\net5.0\ExercicioLoja.dll
+C:\Users\monte\Desktop\ExerciciosPOO\ExercicioLoja\bin\Debug\net5.0\ref\ExercicioLoja.dll
+C:\Users\monte\Desktop\ExerciciosPOO\ExercicioLoja\bin\Debug\net5.0\ExercicioLoja.pdb
+C:\Users\monte\Desktop\ExerciciosPOO\ExercicioLoja\obj\Debug\net5.0\ExercicioLoja.csproj.AssemblyReference.cache
+C:\Users\monte\Desktop\ExerciciosPOO\ExercicioLoja\obj\Debug\net5.0\ExercicioLoja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\monte\Desktop\ExerciciosPOO\ExercicioLoja\obj\Debug\net5.0\ExercicioLoja.AssemblyInfoInputs.cache
+C:\Users\monte\Desktop\ExerciciosPOO\ExercicioLoja\obj\Debug\net5.0\ExercicioLoja.AssemblyInfo.cs
+C:\Users\monte\Desktop\ExerciciosPOO\ExercicioLoja\obj\Debug\net5.0\ExercicioLoja.csproj.CoreCompileInputs.cache
+C:\Users\monte\Desktop\ExerciciosPOO\ExercicioLoja\obj\Debug\net5.0\ExercicioLoja.dll
+C:\Users\monte\Desktop\ExerciciosPOO\ExercicioLoja\obj\Debug\net5.0\ref\ExercicioLoja.dll
+C:\Users\monte\Desktop\ExerciciosPOO\ExercicioLoja\obj\Debug\net5.0\ExercicioLoja.pdb
+C:\Users\monte\Desktop\ExerciciosPOO\ExercicioLoja\obj\Debug\net5.0\ExercicioLoja.genruntimeconfig.cache

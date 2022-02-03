@@ -1,0 +1,16 @@
+C:\Users\monte\Desktop\ExerciciosPOO\ExercicioBonificacao\bin\Debug\net5.0\ExercicioBonificacao.exe
+C:\Users\monte\Desktop\ExerciciosPOO\ExercicioBonificacao\bin\Debug\net5.0\ExercicioBonificacao.deps.json
+C:\Users\monte\Desktop\ExerciciosPOO\ExercicioBonificacao\bin\Debug\net5.0\ExercicioBonificacao.runtimeconfig.json
+C:\Users\monte\Desktop\ExerciciosPOO\ExercicioBonificacao\bin\Debug\net5.0\ExercicioBonificacao.runtimeconfig.dev.json
+C:\Users\monte\Desktop\ExerciciosPOO\ExercicioBonificacao\bin\Debug\net5.0\ExercicioBonificacao.dll
+C:\Users\monte\Desktop\ExerciciosPOO\ExercicioBonificacao\bin\Debug\net5.0\ref\ExercicioBonificacao.dll
+C:\Users\monte\Desktop\ExerciciosPOO\ExercicioBonificacao\bin\Debug\net5.0\ExercicioBonificacao.pdb
+C:\Users\monte\Desktop\ExerciciosPOO\ExercicioBonificacao\obj\Debug\net5.0\ExercicioBonificacao.csproj.AssemblyReference.cache
+C:\Users\monte\Desktop\ExerciciosPOO\ExercicioBonificacao\obj\Debug\net5.0\ExercicioBonificacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\monte\Desktop\ExerciciosPOO\ExercicioBonificacao\obj\Debug\net5.0\ExercicioBonificacao.AssemblyInfoInputs.cache
+C:\Users\monte\Desktop\ExerciciosPOO\ExercicioBonificacao\obj\Debug\net5.0\ExercicioBonificacao.AssemblyInfo.cs
+C:\Users\monte\Desktop\ExerciciosPOO\ExercicioBonificacao\obj\Debug\net5.0\ExercicioBonificacao.csproj.CoreCompileInputs.cache
+C:\Users\monte\Desktop\ExerciciosPOO\ExercicioBonificacao\obj\Debug\net5.0\ExercicioBonificacao.dll
+C:\Users\monte\Desktop\ExerciciosPOO\ExercicioBonificacao\obj\Debug\net5.0\ref\ExercicioBonificacao.dll
+C:\Users\monte\Desktop\ExerciciosPOO\ExercicioBonificacao\obj\Debug\net5.0\ExercicioBonificacao.pdb
+C:\Users\monte\Desktop\ExerciciosPOO\ExercicioBonificacao\obj\Debug\net5.0\ExercicioBonificacao.genruntimeconfig.cache

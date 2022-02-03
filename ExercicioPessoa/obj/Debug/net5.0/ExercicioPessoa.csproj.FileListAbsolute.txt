@@ -1,0 +1,16 @@
+C:\Users\monte\Desktop\ExerciciosPOO\ExercicioPessoa\bin\Debug\net5.0\ExercicioPessoa.exe
+C:\Users\monte\Desktop\ExerciciosPOO\ExercicioPessoa\bin\Debug\net5.0\ExercicioPessoa.deps.json
+C:\Users\monte\Desktop\ExerciciosPOO\ExercicioPessoa\bin\Debug\net5.0\ExercicioPessoa.runtimeconfig.json
+C:\Users\monte\Desktop\ExerciciosPOO\ExercicioPessoa\bin\Debug\net5.0\ExercicioPessoa.runtimeconfig.dev.json
+C:\Users\monte\Desktop\ExerciciosPOO\ExercicioPessoa\bin\Debug\net5.0\ExercicioPessoa.dll
+C:\Users\monte\Desktop\ExerciciosPOO\ExercicioPessoa\bin\Debug\net5.0\ref\ExercicioPessoa.dll
+C:\Users\monte\Desktop\ExerciciosPOO\ExercicioPessoa\bin\Debug\net5.0\ExercicioPessoa.pdb
+C:\Users\monte\Desktop\ExerciciosPOO\ExercicioPessoa\obj\Debug\net5.0\ExercicioPessoa.csproj.AssemblyReference.cache
+C:\Users\monte\Desktop\ExerciciosPOO\ExercicioPessoa\obj\Debug\net5.0\ExercicioPessoa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\monte\Desktop\ExerciciosPOO\ExercicioPessoa\obj\Debug\net5.0\ExercicioPessoa.AssemblyInfoInputs.cache
+C:\Users\monte\Desktop\ExerciciosPOO\ExercicioPessoa\obj\Debug\net5.0\ExercicioPessoa.AssemblyInfo.cs
+C:\Users\monte\Desktop\ExerciciosPOO\ExercicioPessoa\obj\Debug\net5.0\ExercicioPessoa.csproj.CoreCompileInputs.cache
+C:\Users\monte\Desktop\ExerciciosPOO\ExercicioPessoa\obj\Debug\net5.0\ExercicioPessoa.dll
+C:\Users\monte\Desktop\ExerciciosPOO\ExercicioPessoa\obj\Debug\net5.0\ref\ExercicioPessoa.dll
+C:\Users\monte\Desktop\ExerciciosPOO\ExercicioPessoa\obj\Debug\net5.0\ExercicioPessoa.pdb
+C:\Users\monte\Desktop\ExerciciosPOO\ExercicioPessoa\obj\Debug\net5.0\ExercicioPessoa.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\monte\Desktop\ExerciciosPOO\ExercicioRPG\bin\Debug\net5.0\ExercicioRPG.exe
+C:\Users\monte\Desktop\ExerciciosPOO\ExercicioRPG\bin\Debug\net5.0\ExercicioRPG.deps.json
+C:\Users\monte\Desktop\ExerciciosPOO\ExercicioRPG\bin\Debug\net5.0\ExercicioRPG.runtimeconfig.json
+C:\Users\monte\Desktop\ExerciciosPOO\ExercicioRPG\bin\Debug\net5.0\ExercicioRPG.runtimeconfig.dev.json
+C:\Users\monte\Desktop\ExerciciosPOO\ExercicioRPG\bin\Debug\net5.0\ExercicioRPG.dll
+C:\Users\monte\Desktop\ExerciciosPOO\ExercicioRPG\bin\Debug\net5.0\ref\ExercicioRPG.dll
+C:\Users\monte\Desktop\ExerciciosPOO\ExercicioRPG\bin\Debug\net5.0\ExercicioRPG.pdb
+C:\Users\monte\Desktop\ExerciciosPOO\ExercicioRPG\obj\Debug\net5.0\ExercicioRPG.csproj.AssemblyReference.cache
+C:\Users\monte\Desktop\ExerciciosPOO\ExercicioRPG\obj\Debug\net5.0\ExercicioRPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\monte\Desktop\ExerciciosPOO\ExercicioRPG\obj\Debug\net5.0\ExercicioRPG.AssemblyInfoInputs.cache
+C:\Users\monte\Desktop\ExerciciosPOO\ExercicioRPG\obj\Debug\net5.0\ExercicioRPG.AssemblyInfo.cs
+C:\Users\monte\Desktop\ExerciciosPOO\ExercicioRPG\obj\Debug\net5.0\ExercicioRPG.csproj.CoreCompileInputs.cache
+C:\Users\monte\Desktop\ExerciciosPOO\ExercicioRPG\obj\Debug\net5.0\ExercicioRPG.dll
+C:\Users\monte\Desktop\ExerciciosPOO\ExercicioRPG\obj\Debug\net5.0\ref\ExercicioRPG.dll
+C:\Users\monte\Desktop\ExerciciosPOO\ExercicioRPG\obj\Debug\net5.0\ExercicioRPG.pdb
+C:\Users\monte\Desktop\ExerciciosPOO\ExercicioRPG\obj\Debug\net5.0\ExercicioRPG.genruntimeconfig.cache
